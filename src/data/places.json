@@ -1,0 +1,464 @@
+[
+  {
+    "id": "hotel_central",
+    "name": "Hotel Central",
+    "category": "hotel",
+    "type": "📍 Euer Basecamp",
+    "description": "Euer Ausgangspunkt direkt auf dem Hauptplatz (Náměstí Republiky) neben der St.-Bartholomäus-Kathedrale. Alle Wege starten hier.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "isFavorite": true,
+    "coordinates": [49.7469, 13.3782]
+  },
+  {
+    "id": "vip_01",
+    "name": "La Chica Casa Mexicana",
+    "category": "mexican",
+    "type": "VIP Spot 🌮",
+    "description": "Fajitas, Enchiladas und eiskalte Margaritas. Gehört zur Buffalo-Crew.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "isFavorite": true,
+    "coordinates": [49.7431, 13.3768],
+    "prices": [
+      {"item": "Chicken Fajitas", "cost": "345 CZK (~13.80 €)"},
+      {"item": "Beef Burrito", "cost": "295 CZK (~11.80 €)"},
+      {"item": "Margarita (Classic)", "cost": "165 CZK (~6.60 €)"}
+    ]
+  },
+  {
+    "id": "burger_01",
+    "name": "Buffalo Burger Bar",
+    "category": "burger",
+    "type": "Burger-Anker 🍔",
+    "description": "Gesetzter Spot für Freitag & Montag. Absolute Fleisch-Eskalation.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "isFavorite": true,
+    "coordinates": [49.7455, 13.3780],
+    "prices": [
+      {"item": "Bacon Cheeseburger", "cost": "285 CZK (~11.40 €)"},
+      {"item": "BBQ Burger inkl. Fries", "cost": "315 CZK (~12.60 €)"},
+      {"item": "Bier (0.4l)", "cost": "65 CZK (~2.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_01",
+    "name": "Šenk Na Parkánu",
+    "category": "deftig",
+    "type": "Haxen-Endgegner 🍖",
+    "description": "Knuspriges Pečené koleno (Schweinshaxe) und ungefiltertes Pilsner direkt an der Brauerei.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7475, 13.3791],
+    "prices": [
+      {"item": "Pilsner Urquell (0.5l)", "cost": "71 CZK (~2.85 €)"},
+      {"item": "1/2 Schweinshaxe", "cost": "385 CZK (~15.40 €)"},
+      {"item": "Rindergulasch", "cost": "255 CZK (~10.20 €)"}
+    ]
+  },
+  {
+    "id": "cz_02",
+    "name": "Lokál Pod Divadlem",
+    "category": "deftig",
+    "type": "Saucen-Götter 🥘",
+    "description": "Perfektes Svíčková (Rinderbraten) und das frischste Pilsner der Stadt. Absolute Institution.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7448, 13.3742],
+    "prices": [
+      {"item": "Pilsner Urquell (0.5l)", "cost": "74 CZK (~2.96 €)"},
+      {"item": "Svíčková (Lendenbraten)", "cost": "275 CZK (~11.00 €)"},
+      {"item": "Gebratener Käse", "cost": "215 CZK (~8.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_03",
+    "name": "U Salzmannů",
+    "category": "deftig",
+    "type": "Historisches Original 🏰",
+    "description": "Älteste Kneipe der Stadt (seit 1637). Uriges Gewölbe, Gulasch und fette Knödel.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7468, 13.3775],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Altböhmischer Teller", "cost": "365 CZK (~14.60 €)"},
+      {"item": "Salzmann Gulasch", "cost": "265 CZK (~10.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_04",
+    "name": "Pils’n’Grill",
+    "category": "deftig",
+    "type": "Fleisch pur 🥩",
+    "description": "Wenn ihr einfach nur geniale Steaks und Rippchen zum Bier wollt.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7480, 13.3755],
+    "prices": [
+      {"item": "Rumpsteak (250g)", "cost": "495 CZK (~19.80 €)"},
+      {"item": "Pork Ribs (500g)", "cost": "345 CZK (~13.80 €)"},
+      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_06",
+    "name": "Uctívaný Velbloud",
+    "category": "deftig",
+    "type": "Urig & Lokal 🍻",
+    "description": "Das 'Verehrte Kamel'. Tolle Atmosphäre, deftige Portionen und extrem entspannt.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7438, 13.3725],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "62 CZK (~2.50 €)"},
+      {"item": "Schweinebraten & Kraut", "cost": "225 CZK (~9.00 €)"},
+      {"item": "Bierkäse-Aufstrich", "cost": "115 CZK (~4.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_08",
+    "name": "Restaurace Na Spilce",
+    "category": "deftig",
+    "type": "Der Riesen-Gewölbekeller 🏛️",
+    "description": "Direkt im Innenhof der Brauerei. Gigantischer Bierkeller, brutal gutes Gulasch.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7471, 13.3871],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Gebackene Ente (1/4)", "cost": "325 CZK (~13.00 €)"},
+      {"item": "Brauerei-Gulasch", "cost": "285 CZK (~11.40 €)"}
+    ]
+  },
+  {
+    "id": "cz_09",
+    "name": "U Jakuba",
+    "category": "deftig",
+    "type": "Local Favorit 🤫",
+    "description": "Winzig, unscheinbar, aber bei Einheimischen legendär. Sensationelle tschechische Hausmannskost.",
+    "lunch_deal": true,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.7439, 13.3748],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "58 CZK (~2.30 €)"},
+      {"item": "Tages-Hauptgericht", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Smažený sýr (Backkäse)", "cost": "175 CZK (~7.00 €)"}
+    ]
+  },
+  {
+    "id": "cz_10",
+    "name": "Potrefená Husa",
+    "category": "deftig",
+    "type": "Deftig Modern 🍗",
+    "description": "Geniale, extrem saftige Chicken Wings, Rippchen und deftige Klassiker in moderner Pub-Atmosphäre.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7418, 13.3812],
+    "prices": [
+      {"item": "Staropramen (0.5l)", "cost": "64 CZK (~2.55 €)"},
+      {"item": "Chicken Wings (9 Stk)", "cost": "275 CZK (~11.00 €)"},
+      {"item": "Rindertatar (150g)", "cost": "315 CZK (~12.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_11",
+    "name": "Comix Urban Pub",
+    "category": "deftig",
+    "type": "Rippchen-Himmel 🔥",
+    "description": "Berühmt für die besten BBQ-Pork-Ribs. Viele Screens im Innenbereich, perfekt für Sportübertragungen.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": true,
+    "coordinates": [49.7461, 13.3789],
+    "prices": [
+      {"item": "BBQ Ribs (400g)", "cost": "335 CZK (~13.40 €)"},
+      {"item": "Pulled Pork Sandwich", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Lokales Bier (0.5l)", "cost": "65 CZK (~2.60 €)"}
+    ]
+  },
+  {
+    "id": "cz_12",
+    "name": "Restaurace U Mansfelda",
+    "category": "deftig",
+    "type": "Böhmisch Premium 🍲",
+    "description": "Direkt an den alten Stadtmauern. Legendär für das auf Bier langsam gebackene Schweinekoleno (Haxe).",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7455, 13.3796],
+    "prices": [
+      {"item": "Pilsner Urquell (0.5l)", "cost": "69 CZK (~2.75 €)"},
+      {"item": "Pečené koleno (Gebackene Haxe)", "cost": "365 CZK (~14.60 €)"},
+      {"item": "Svíčková (Lendenbraten)", "cost": "275 CZK (~11.00 €)"}
+    ]
+  },
+  {
+    "id": "cz_13",
+    "name": "Šenk Lékárna",
+    "category": "deftig",
+    "type": "Tankbier & Tradition 🍺",
+    "description": "Befindet sich in einer alten Apotheke direkt am Hauptplatz. Perfektes Tankbier und fantastische Ente.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7471, 13.3778],
+    "prices": [
+      {"item": "Pilsner Tankbier (0.5l)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Rindsgulasch", "cost": "295 CZK (~11.80 €)"},
+      {"item": "Gebackene Ente (1/4)", "cost": "335 CZK (~13.40 €)"}
+    ]
+  },
+  {
+    "id": "cz_14",
+    "name": "Restaurace U Gigantu",
+    "category": "deftig",
+    "type": "Staročeská Legende 🏰",
+    "description": "Liegt etwas außerhalb des Zentrums im Viertel Doudlevce. Ein absoluter Local-Geheimtipp für traditionelle Küche.",
+    "lunch_deal": true,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.7215, 13.3850],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "58 CZK (~2.30 €)"},
+      {"item": "Altböhmischer Teller", "cost": "265 CZK (~10.60 €)"},
+      {"item": "Schnitzel & Kartoffelsalat", "cost": "220 CZK (~8.80 €)"}
+    ]
+  },
+  {
+    "id": "cz_15",
+    "name": "U Malické Brány",
+    "category": "deftig",
+    "type": "Versteckte Tradition 🌿",
+    "description": "Hat eine traumhafte Terrasse im Innenhof. Extrem gute tschechische Hausmannskost zu super fairen Preisen.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7485, 13.3790],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Schweinebraten mit Kraut", "cost": "215 CZK (~8.60 €)"},
+      {"item": "Tages-Mittagsmenü", "cost": "175 CZK (~7.00 €)"}
+    ]
+  },
+  {
+    "id": "cz_16",
+    "name": "Restaurace U Řezníka",
+    "category": "deftig",
+    "type": "Der Fleischer 🥩",
+    "description": "Der Name 'Beim Fleischer' ist Programm. Weit weg vom Trubel und absolut kompromisslos bei der Fleischqualität.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7650, 13.3700],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "62 CZK (~2.50 €)"},
+      {"item": "Knoblauchsuppe (Česnečka)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Rippchen / Steaks", "cost": "310 CZK (~12.40 €)"}
+    ]
+  },
+  {
+    "id": "bar_01",
+    "name": "Výčep Alkron",
+    "category": "bar",
+    "type": "Roher Vibe 🛢️",
+    "description": "Rohe Steh-Bierhalle. Keine Stühle, nur Locals, bestes Tankbier. Authentischer geht's nicht.",
+    "lunch_deal": false,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.7460, 13.3750],
+    "prices": [
+      {"item": "Tankbier (0.5l)", "cost": "64 CZK (~2.55 €)"},
+      {"item": "Eingelegter Hermelín", "cost": "105 CZK (~4.20 €)"},
+      {"item": "Utopenec (Snack)", "cost": "95 CZK (~3.80 €)"}
+    ]
+  },
+  {
+    "id": "bar_03",
+    "name": "Zach's Pub",
+    "category": "bar",
+    "type": "Live & Urig 🎸",
+    "description": "Irischer Pub mit riesigem Innenhof. Hier gibt es im Sommer oft eine große Leinwand für Open-Air-WM-Viewing.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": true,
+    "coordinates": [49.7450, 13.3705],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Guinness (0.5l)", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Jameson Cola", "cost": "145 CZK (~5.80 €)"}
+    ]
+  },
+  {
+    "id": "bar_06",
+    "name": "Švejk U Pětatřicátníků",
+    "category": "bar",
+    "type": "Die Kult-Kneipe 🍺",
+    "description": "Klassische tschechische Kneipenkultur. Laut, gesellig, perfekt für ehrliche Longdrinks und Bier.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7482, 13.3730],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Cuba Libre", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Švejk Gulasch", "cost": "245 CZK (~9.80 €)"}
+    ]
+  },
+  {
+    "id": "bar_07",
+    "name": "The Pub",
+    "category": "bar",
+    "type": "Selbstzapfer-Eskalation 🚰",
+    "description": "Eigene Zapfhähne am Tisch. Perfekt für lange WM-Abende mit vielen Screens im ganzen Raum.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": true,
+    "coordinates": [49.7445, 13.3770],
+    "prices": [
+      {"item": "Selbstgezapftes Pilsner", "cost": "72 CZK (~2.90 €)"},
+      {"item": "Jack Daniels Cola", "cost": "155 CZK (~6.20 €)"},
+      {"item": "The Pub Burger", "cost": "295 CZK (~11.80 €)"}
+    ]
+  },
+  {
+    "id": "bar_08",
+    "name": "Mefisto Rock Bar",
+    "category": "bar",
+    "type": "Whiskey-Cola-Zentrale 🥃",
+    "description": "Urige Kellerbar mit Rock-Vibe. Bis 04:00 Uhr morgens offen – rettet euch bei den extrem späten US-Nachtspielen!",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": true,
+    "coordinates": [49.7452, 13.3732],
+    "prices": [
+      {"item": "Bier (0.5l)", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Tullamore Dew Cola", "cost": "125 CZK (~5.00 €)"},
+      {"item": "Rum Cola (Local)", "cost": "95 CZK (~3.80 €)"}
+    ]
+  },
+  {
+    "id": "bar_09",
+    "name": "Buena Vista Club",
+    "category": "bar",
+    "type": "Ulkige Höhlen-Bar 🌀",
+    "description": "Völlig verrückte, wellenartige Architektur. Extrem gemütlich für Drinks am Abend, oft mit Live-Musik.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7433, 13.3712],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Gin Tonic", "cost": "155 CZK (~6.20 €)"},
+      {"item": "Mojito", "cost": "165 CZK (~6.60 €)"}
+    ]
+  },
+  {
+    "id": "bar_10",
+    "name": "Sherlock Holmes Pub",
+    "category": "bar",
+    "type": "Dunkles Holz & Gemütlich 🇬🇧",
+    "description": "Klassischer britischer Pub-Style mit Ledersesseln. Überträgt traditionell jedes große Fußballspiel live.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": true,
+    "coordinates": [49.7466, 13.3738],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Whiskey Cola", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Fish & Chips", "cost": "265 CZK (~10.60 €)"}
+    ]
+  },
+  {
+    "id": "bar_11",
+    "name": "Žumbera Keller",
+    "category": "bar",
+    "type": "Uraltes Gewölbe 🕸️",
+    "description": "Tiefes, historisches Kellergewölbe. Absolut unpolierter Local-Vibe, kaltes Bier und schwere Mischen.",
+    "lunch_deal": false,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.7462, 13.3809],
+    "prices": [
+      {"item": "Pilsner (0.5l)", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Haus-Rum mit Cola", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Knoblauchsuppe", "cost": "65 CZK (~2.60 €)"}
+    ]
+  },
+  {
+    "id": "cafe_01",
+    "name": "Pappa Coffee",
+    "category": "cafe",
+    "type": "Kaffee & Ruhe ☕",
+    "description": "Entspannter Vibe, um nachmittags mal kurz runterzukommen.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7470, 13.3760],
+    "prices": [
+      {"item": "Flat White", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Espresso Macchiato", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Hausgemachter Kuchen", "cost": "115 CZK (~4.60 €)"}
+    ]
+  },
+  {
+    "id": "cafe_03",
+    "name": "Schovaná kavárna",
+    "category": "cafe",
+    "type": "Verstecktes Juwel 🌿",
+    "description": "Heißt übersetzt 'Verstecktes Café'. Liegt in einem wunderschönen, ruhigen Innenhof. Extrem gemütlich.",
+    "lunch_deal": false,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.7485, 13.3785],
+    "prices": [
+      {"item": "Cappuccino", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Limonade (0.5l)", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Cheesecake", "cost": "125 CZK (~5.00 €)"}
+    ]
+  },
+  {
+    "id": "cafe_06",
+    "name": "Regner",
+    "category": "cafe",
+    "type": "Retro-Wohnzimmer 🛋️",
+    "description": "Fühlt sich an wie ein ulkiges Wohnzimmer aus den 70ern. Abends mutiert es zur gemütlichen Bar.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7444, 13.3731],
+    "prices": [
+      {"item": "Espresso", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Gin Tonic", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Bier (Abends)", "cost": "60 CZK (~2.40 €)"}
+    ]
+  },
+  {
+    "id": "cafe_07",
+    "name": "Kafec Plzeň",
+    "category": "cafe",
+    "type": "Waffel-Eskalation 🧇",
+    "description": "Berühmt für heftige Waffeln (gibt es auch in deftigen Varianten!) und grandiosen, starken Kaffee.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.7428, 13.3719],
+    "prices": [
+      {"item": "Süße Belgische Waffel", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Deftige Waffel (Bacon)", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Batch Brew Filterkaffee", "cost": "75 CZK (~3.00 €)"}
+    ]
+  }
+]
