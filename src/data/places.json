@@ -9,7 +9,7 @@
     "secret_tip": false,
     "wm_spot": false,
     "isFavorite": true,
-    "coordinates": [49.7469, 13.3782]
+    "coordinates": [49.74712, 13.37920]
   },
   {
     "id": "vip_01",
@@ -21,11 +21,14 @@
     "secret_tip": false,
     "wm_spot": false,
     "isFavorite": true,
-    "coordinates": [49.7431, 13.3768],
+    "coordinates": [49.74925, 13.37826],
     "prices": [
-      {"item": "Chicken Fajitas", "cost": "345 CZK (~13.80 €)"},
-      {"item": "Beef Burrito", "cost": "295 CZK (~11.80 €)"},
-      {"item": "Margarita (Classic)", "cost": "165 CZK (~6.60 €)"}
+      {"item": "Chicken Fajitas (Für 2 Personen)", "cost": "345 CZK (~13.80 €)"},
+      {"item": "Beef Burrito Supreme", "cost": "295 CZK (~11.80 €)"},
+      {"item": "Tacos al Pastor (3 Stk.)", "cost": "265 CZK (~10.60 €)"},
+      {"item": "Nachos con Queso & Jalapeños", "cost": "185 CZK (~7.40 €)"},
+      {"item": "Margarita (Classic, eisgekühlt)", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Churros mit Schokosauce", "cost": "125 CZK (~5.00 €)"}
     ]
   },
   {
@@ -38,11 +41,14 @@
     "secret_tip": false,
     "wm_spot": false,
     "isFavorite": true,
-    "coordinates": [49.7455, 13.3780],
+    "coordinates": [49.74100, 13.37700],
     "prices": [
       {"item": "Bacon Cheeseburger", "cost": "285 CZK (~11.40 €)"},
-      {"item": "BBQ Burger inkl. Fries", "cost": "315 CZK (~12.60 €)"},
-      {"item": "Bier (0.4l)", "cost": "65 CZK (~2.60 €)"}
+      {"item": "BBQ Double Smash Burger", "cost": "345 CZK (~13.80 €)"},
+      {"item": "Crispy Onion Rings", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Sweet Potato Fries", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Buffalo Chicken Wings (6 Stk.)", "cost": "215 CZK (~8.60 €)"},
+      {"item": "Lokales Draft Bier (0.4l)", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -54,11 +60,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7475, 13.3791],
+    "coordinates": [49.74805, 13.37980],
     "prices": [
-      {"item": "Pilsner Urquell (0.5l)", "cost": "71 CZK (~2.85 €)"},
-      {"item": "1/2 Schweinshaxe", "cost": "385 CZK (~15.40 €)"},
-      {"item": "Rindergulasch", "cost": "255 CZK (~10.20 €)"}
+      {"item": "1/2 Schweinshaxe (Pečené koleno)", "cost": "385 CZK (~15.40 €)"},
+      {"item": "Riesiges Schweineschnitzel", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Deftige Bratkartoffeln mit Speck", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Klassisches Rindergulasch", "cost": "255 CZK (~10.20 €)"},
+      {"item": "Ungefiltertes Pilsner Urquell (0.5l)", "cost": "71 CZK (~2.85 €)"},
+      {"item": "Becherovka Shot", "cost": "55 CZK (~2.20 €)"}
     ]
   },
   {
@@ -70,11 +79,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7448, 13.3742],
+    "coordinates": [49.74585, 13.37390],
     "prices": [
-      {"item": "Pilsner Urquell (0.5l)", "cost": "74 CZK (~2.96 €)"},
-      {"item": "Svíčková (Lendenbraten)", "cost": "275 CZK (~11.00 €)"},
-      {"item": "Gebratener Käse", "cost": "215 CZK (~8.60 €)"}
+      {"item": "Svíčková (Lendenbraten in Sahnesauce)", "cost": "275 CZK (~11.00 €)"},
+      {"item": "Prager Schinken mit Meerrettich", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Smažený sýr (Gebratener Käse)", "cost": "215 CZK (~8.60 €)"},
+      {"item": "Hausgemachte Bratkartoffeln", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Frisch gezapftes Pilsner (0.5l)", "cost": "74 CZK (~2.96 €)"},
+      {"item": "Slivovice (Pflaumenschnaps)", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -86,11 +98,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7468, 13.3775],
+    "coordinates": [49.74710, 13.37970],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
-      {"item": "Altböhmischer Teller", "cost": "365 CZK (~14.60 €)"},
-      {"item": "Salzmann Gulasch", "cost": "265 CZK (~10.60 €)"}
+      {"item": "Altböhmischer Teller (Ente, Schwein, Wurst)", "cost": "365 CZK (~14.60 €)"},
+      {"item": "Salzmann Gulasch im Brotleib", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Böhmisches Schnitzel", "cost": "265 CZK (~10.60 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Kozel Dark (Dunkles Bier, 0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Apfelstrudel mit Vanillesauce", "cost": "115 CZK (~4.60 €)"}
     ]
   },
   {
@@ -102,11 +117,14 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7480, 13.3755],
+    "coordinates": [49.74550, 13.37680],
     "prices": [
-      {"item": "Rumpsteak (250g)", "cost": "495 CZK (~19.80 €)"},
-      {"item": "Pork Ribs (500g)", "cost": "345 CZK (~13.80 €)"},
-      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"}
+      {"item": "Rumpsteak (250g, Medium Rare)", "cost": "495 CZK (~19.80 €)"},
+      {"item": "BBQ Pork Ribs (500g)", "cost": "345 CZK (~13.80 €)"},
+      {"item": "Beef Flank Steak (200g)", "cost": "395 CZK (~15.80 €)"},
+      {"item": "Knusprige Zwiebelringe", "cost": "125 CZK (~5.00 €)"},
+      {"item": "Pfeffersauce / Chimichurri", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Pilsner vom Fass (0.5l)", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -118,11 +136,13 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7438, 13.3725],
+    "coordinates": [49.74380, 13.37250],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "62 CZK (~2.50 €)"},
-      {"item": "Schweinebraten & Kraut", "cost": "225 CZK (~9.00 €)"},
-      {"item": "Bierkäse-Aufstrich", "cost": "115 CZK (~4.60 €)"}
+      {"item": "Klassischer Schweinebraten mit Kraut", "cost": "225 CZK (~9.00 €)"},
+      {"item": "Gulaschsuppe im Topf", "cost": "115 CZK (~4.60 €)"},
+      {"item": "Schnitzel mit Kartoffelpüree", "cost": "215 CZK (~8.60 €)"},
+      {"item": "Bierkäse-Aufstrich mit Röstbrot", "cost": "115 CZK (~4.60 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "62 CZK (~2.50 €)"}
     ]
   },
   {
@@ -134,11 +154,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7471, 13.3871],
+    "coordinates": [49.74710, 13.38710],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "75 CZK (~3.00 €)"},
-      {"item": "Gebackene Ente (1/4)", "cost": "325 CZK (~13.00 €)"},
-      {"item": "Brauerei-Gulasch", "cost": "285 CZK (~11.40 €)"}
+      {"item": "Gebackene Ente (1/4) mit Rotkraut", "cost": "325 CZK (~13.00 €)"},
+      {"item": "Deftiges Brauerei-Gulasch", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Schweinshaxe am Knochen", "cost": "395 CZK (~15.80 €)"},
+      {"item": "Klassische Knoblauchsuppe", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Frischestes Pilsner (0.5l)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Hausgemachter Apfelkuchen", "cost": "105 CZK (~4.20 €)"}
     ]
   },
   {
@@ -150,11 +173,13 @@
     "lunch_deal": true,
     "secret_tip": true,
     "wm_spot": false,
-    "coordinates": [49.7439, 13.3748],
+    "coordinates": [49.74390, 13.37480],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "58 CZK (~2.30 €)"},
-      {"item": "Tages-Hauptgericht", "cost": "165 CZK (~6.60 €)"},
-      {"item": "Smažený sýr (Backkäse)", "cost": "175 CZK (~7.00 €)"}
+      {"item": "Tages-Hauptgericht (Wechselnd)", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Smažený sýr (Backkäse mit Tatarsauce)", "cost": "175 CZK (~7.00 €)"},
+      {"item": "Hausgemachtes Schweinegulasch", "cost": "185 CZK (~7.40 €)"},
+      {"item": "Kalte Platte (Wurst & Käse)", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "58 CZK (~2.30 €)"}
     ]
   },
   {
@@ -166,11 +191,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7418, 13.3812],
+    "coordinates": [49.74410, 13.37850],
     "prices": [
-      {"item": "Staropramen (0.5l)", "cost": "64 CZK (~2.55 €)"},
-      {"item": "Chicken Wings (9 Stk)", "cost": "275 CZK (~11.00 €)"},
-      {"item": "Rindertatar (150g)", "cost": "315 CZK (~12.60 €)"}
+      {"item": "Spicy Chicken Wings (9 Stk.)", "cost": "275 CZK (~11.00 €)"},
+      {"item": "Rindertatar (150g) mit Röstbrot", "cost": "315 CZK (~12.60 €)"},
+      {"item": "Slow-Cooked BBQ Ribs", "cost": "335 CZK (~13.40 €)"},
+      {"item": "Nachos überbacken mit Käse", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Staropramen vom Fass (0.5l)", "cost": "64 CZK (~2.55 €)"},
+      {"item": "Hoegaarden Weißbier (0.5l)", "cost": "75 CZK (~3.00 €)"}
     ]
   },
   {
@@ -182,11 +210,14 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": true,
-    "coordinates": [49.7461, 13.3789],
+    "coordinates": [49.74710, 13.37890],
     "prices": [
-      {"item": "BBQ Ribs (400g)", "cost": "335 CZK (~13.40 €)"},
-      {"item": "Pulled Pork Sandwich", "cost": "285 CZK (~11.40 €)"},
-      {"item": "Lokales Bier (0.5l)", "cost": "65 CZK (~2.60 €)"}
+      {"item": "Legendäre BBQ Ribs (400g)", "cost": "335 CZK (~13.40 €)"},
+      {"item": "Pulled Pork Sandwich mit Coleslaw", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Crispy Onion Rings", "cost": "125 CZK (~5.00 €)"},
+      {"item": "Cheese & Bacon Fries", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Lokales Helles Bier (0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Craft IPA vom Fass", "cost": "85 CZK (~3.40 €)"}
     ]
   },
   {
@@ -198,11 +229,14 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7455, 13.3796],
+    "coordinates": [49.74560, 13.37990],
     "prices": [
+      {"item": "Pečené koleno (Gebackene Haxe, 1.2kg)", "cost": "365 CZK (~14.60 €)"},
+      {"item": "Svíčková (Lendenbraten)", "cost": "275 CZK (~11.00 €)"},
+      {"item": "Kräftige Rinderbrühe mit Nudeln", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Klassisches Schnitzel", "cost": "245 CZK (~9.80 €)"},
       {"item": "Pilsner Urquell (0.5l)", "cost": "69 CZK (~2.75 €)"},
-      {"item": "Pečené koleno (Gebackene Haxe)", "cost": "365 CZK (~14.60 €)"},
-      {"item": "Svíčková (Lendenbraten)", "cost": "275 CZK (~11.00 €)"}
+      {"item": "Honigkuchen (Medovník)", "cost": "105 CZK (~4.20 €)"}
     ]
   },
   {
@@ -214,11 +248,13 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7471, 13.3778],
+    "coordinates": [49.74748, 13.37874],
     "prices": [
-      {"item": "Pilsner Tankbier (0.5l)", "cost": "75 CZK (~3.00 €)"},
-      {"item": "Rindsgulasch", "cost": "295 CZK (~11.80 €)"},
-      {"item": "Gebackene Ente (1/4)", "cost": "335 CZK (~13.40 €)"}
+      {"item": "Gebackene Ente (1/4) mit Knödeln", "cost": "335 CZK (~13.40 €)"},
+      {"item": "Deftiges Rindsgulasch", "cost": "295 CZK (~11.80 €)"},
+      {"item": "Hausgemachte Bratkartoffeln mit Speck", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Eingelegter Hermelín (Weichkäse)", "cost": "125 CZK (~5.00 €)"},
+      {"item": "Pilsner Tankbier (Hladinka, 0.5l)", "cost": "75 CZK (~3.00 €)"}
     ]
   },
   {
@@ -230,11 +266,13 @@
     "lunch_deal": true,
     "secret_tip": true,
     "wm_spot": false,
-    "coordinates": [49.7215, 13.3850],
+    "coordinates": [49.72150, 13.38500],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "58 CZK (~2.30 €)"},
-      {"item": "Altböhmischer Teller", "cost": "265 CZK (~10.60 €)"},
-      {"item": "Schnitzel & Kartoffelsalat", "cost": "220 CZK (~8.80 €)"}
+      {"item": "Altböhmischer Fleisch-Teller", "cost": "265 CZK (~10.60 €)"},
+      {"item": "Riesenschnitzel mit knusprigen Bratkartoffeln", "cost": "220 CZK (~8.80 €)"},
+      {"item": "Schweinebraten mit Knödeln", "cost": "210 CZK (~8.40 €)"},
+      {"item": "Herzhaftes Wildgulasch", "cost": "245 CZK (~9.80 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "58 CZK (~2.30 €)"}
     ]
   },
   {
@@ -246,11 +284,13 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7485, 13.3790],
+    "coordinates": [49.74850, 13.37900],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
       {"item": "Schweinebraten mit Kraut", "cost": "215 CZK (~8.60 €)"},
-      {"item": "Tages-Mittagsmenü", "cost": "175 CZK (~7.00 €)"}
+      {"item": "Traditionelles Svíčková", "cost": "235 CZK (~9.40 €)"},
+      {"item": "Tages-Mittagsmenü (Komplett)", "cost": "175 CZK (~7.00 €)"},
+      {"item": "Süße Palatschinken", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -262,11 +302,13 @@
     "lunch_deal": true,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7650, 13.3700],
+    "coordinates": [49.76500, 13.37000],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "62 CZK (~2.50 €)"},
+      {"item": "Fleischer-Rippchen", "cost": "310 CZK (~12.40 €)"},
+      {"item": "Beef Steak (300g)", "cost": "485 CZK (~19.40 €)"},
+      {"item": "Frisches Rindertatar", "cost": "285 CZK (~11.40 €)"},
       {"item": "Knoblauchsuppe (Česnečka)", "cost": "75 CZK (~3.00 €)"},
-      {"item": "Rippchen / Steaks", "cost": "310 CZK (~12.40 €)"}
+      {"item": "Pilsner Urquell (0.5l)", "cost": "62 CZK (~2.50 €)"}
     ]
   },
   {
@@ -278,11 +320,13 @@
     "lunch_deal": false,
     "secret_tip": true,
     "wm_spot": false,
-    "coordinates": [49.7460, 13.3750],
+    "coordinates": [49.74600, 13.37500],
     "prices": [
-      {"item": "Tankbier (0.5l)", "cost": "64 CZK (~2.55 €)"},
-      {"item": "Eingelegter Hermelín", "cost": "105 CZK (~4.20 €)"},
-      {"item": "Utopenec (Snack)", "cost": "95 CZK (~3.80 €)"}
+      {"item": "Kaltes Tankbier (0.5l)", "cost": "64 CZK (~2.55 €)"},
+      {"item": "Eingelegter Hermelín (Käsesnack)", "cost": "105 CZK (~4.20 €)"},
+      {"item": "Utopenec (Wurst im Essigsud)", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Bierkäse (Pivní sýr)", "cost": "115 CZK (~4.60 €)"},
+      {"item": "Fernet Stock Shot", "cost": "55 CZK (~2.20 €)"}
     ]
   },
   {
@@ -294,11 +338,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": true,
-    "coordinates": [49.7450, 13.3705],
+    "coordinates": [49.74500, 13.37050],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
-      {"item": "Guinness (0.5l)", "cost": "95 CZK (~3.80 €)"},
-      {"item": "Jameson Cola", "cost": "145 CZK (~5.80 €)"}
+      {"item": "Guinness vom Fass (0.5l)", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Jameson Irish Whiskey & Cola", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Magners Cider (Flasche)", "cost": "110 CZK (~4.40 €)"},
+      {"item": "Pub-Snacks (Chips & Nüsse)", "cost": "75 CZK (~3.00 €)"}
     ]
   },
   {
@@ -310,11 +356,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7482, 13.3730],
+    "coordinates": [49.74770, 13.37350],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
-      {"item": "Cuba Libre", "cost": "135 CZK (~5.40 €)"},
-      {"item": "Švejk Gulasch", "cost": "245 CZK (~9.80 €)"}
+      {"item": "Švejk Gulasch", "cost": "245 CZK (~9.80 €)"},
+      {"item": "Kleines Schnitzel als Snack", "cost": "155 CZK (~6.20 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Cuba Libre (Eiskalt)", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Wodka Lemon", "cost": "125 CZK (~5.00 €)"}
     ]
   },
   {
@@ -326,11 +374,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": true,
-    "coordinates": [49.7445, 13.3770],
+    "coordinates": [49.74740, 13.37920],
     "prices": [
-      {"item": "Selbstgezapftes Pilsner", "cost": "72 CZK (~2.90 €)"},
+      {"item": "Selbstgezapftes Pilsner (Pro 0.5l)", "cost": "72 CZK (~2.90 €)"},
       {"item": "Jack Daniels Cola", "cost": "155 CZK (~6.20 €)"},
-      {"item": "The Pub Burger", "cost": "295 CZK (~11.80 €)"}
+      {"item": "The Pub Signature Burger", "cost": "295 CZK (~11.80 €)"},
+      {"item": "Onion Rings Basket", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Spicy Chicken Wings", "cost": "245 CZK (~9.80 €)"}
     ]
   },
   {
@@ -342,11 +392,14 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": true,
-    "coordinates": [49.7452, 13.3732],
+    "coordinates": [49.74440, 13.37830],
     "prices": [
-      {"item": "Bier (0.5l)", "cost": "55 CZK (~2.20 €)"},
-      {"item": "Tullamore Dew Cola", "cost": "125 CZK (~5.00 €)"},
-      {"item": "Rum Cola (Local)", "cost": "95 CZK (~3.80 €)"}
+      {"item": "Tullamore Dew & Cola", "cost": "125 CZK (~5.00 €)"},
+      {"item": "Captain Morgan Rum Cola", "cost": "115 CZK (~4.60 €)"},
+      {"item": "Lokaler Tuzemák (Rum) Cola", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Wodka Energy", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Fassbier (0.5l)", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Tequila Silver Shot", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -358,11 +411,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7433, 13.3712],
+    "coordinates": [49.74310, 13.37250],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"},
-      {"item": "Gin Tonic", "cost": "155 CZK (~6.20 €)"},
-      {"item": "Mojito", "cost": "165 CZK (~6.60 €)"}
+      {"item": "Gin Tonic (Bombay Sapphire)", "cost": "155 CZK (~6.20 €)"},
+      {"item": "Mojito (Classic)", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Cuba Libre", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Haus-Cocktail Buena Vista", "cost": "185 CZK (~7.40 €)"},
+      {"item": "Pilsner (0.5l)", "cost": "65 CZK (~2.60 €)"}
     ]
   },
   {
@@ -374,11 +429,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": true,
-    "coordinates": [49.7466, 13.3738],
+    "coordinates": [49.74660, 13.37380],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "68 CZK (~2.70 €)"},
-      {"item": "Whiskey Cola", "cost": "145 CZK (~5.80 €)"},
-      {"item": "Fish & Chips", "cost": "265 CZK (~10.60 €)"}
+      {"item": "Fish & Chips mit Tartarsauce", "cost": "265 CZK (~10.60 €)"},
+      {"item": "Pub Burger & Fries", "cost": "285 CZK (~11.40 €)"},
+      {"item": "Whiskey Cola (Jack/Jim)", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Pilsner Urquell (0.5l)", "cost": "68 CZK (~2.70 €)"},
+      {"item": "Kingswood Apple Cider", "cost": "85 CZK (~3.40 €)"}
     ]
   },
   {
@@ -390,11 +447,13 @@
     "lunch_deal": false,
     "secret_tip": true,
     "wm_spot": false,
-    "coordinates": [49.7462, 13.3809],
+    "coordinates": [49.74520, 13.37610],
     "prices": [
-      {"item": "Pilsner (0.5l)", "cost": "55 CZK (~2.20 €)"},
-      {"item": "Haus-Rum mit Cola", "cost": "85 CZK (~3.40 €)"},
-      {"item": "Knoblauchsuppe", "cost": "65 CZK (~2.60 €)"}
+      {"item": "Haus-Rum mit Cola (Stark)", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Utopenec (Essigwurst-Snack)", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Scharfes Rindsgulasch", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Knoblauchsuppe", "cost": "65 CZK (~2.60 €)"},
+      {"item": "Pilsner (0.5l)", "cost": "55 CZK (~2.20 €)"}
     ]
   },
   {
@@ -406,11 +465,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7470, 13.3760],
+    "coordinates": [49.74840, 13.37760],
     "prices": [
       {"item": "Flat White", "cost": "85 CZK (~3.40 €)"},
       {"item": "Espresso Macchiato", "cost": "65 CZK (~2.60 €)"},
-      {"item": "Hausgemachter Kuchen", "cost": "115 CZK (~4.60 €)"}
+      {"item": "Cold Brew Coffee", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Hausgemachter Kuchen (Täglich frisch)", "cost": "115 CZK (~4.60 €)"},
+      {"item": "Avocado Toast", "cost": "165 CZK (~6.60 €)"}
     ]
   },
   {
@@ -422,11 +483,13 @@
     "lunch_deal": false,
     "secret_tip": true,
     "wm_spot": false,
-    "coordinates": [49.7485, 13.3785],
+    "coordinates": [49.74620, 13.37980],
     "prices": [
-      {"item": "Cappuccino", "cost": "75 CZK (~3.00 €)"},
-      {"item": "Limonade (0.5l)", "cost": "85 CZK (~3.40 €)"},
-      {"item": "Cheesecake", "cost": "125 CZK (~5.00 €)"}
+      {"item": "Cappuccino (Crema)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Double Espresso", "cost": "70 CZK (~2.80 €)"},
+      {"item": "Chai Latte", "cost": "95 CZK (~3.80 €)"},
+      {"item": "Hausgemachte Limonade (0.5l)", "cost": "85 CZK (~3.40 €)"},
+      {"item": "New York Cheesecake", "cost": "125 CZK (~5.00 €)"}
     ]
   },
   {
@@ -438,11 +501,13 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7444, 13.3731],
+    "coordinates": [49.74560, 13.37390],
     "prices": [
-      {"item": "Espresso", "cost": "55 CZK (~2.20 €)"},
-      {"item": "Gin Tonic", "cost": "135 CZK (~5.40 €)"},
-      {"item": "Bier (Abends)", "cost": "60 CZK (~2.40 €)"}
+      {"item": "Klassischer Espresso", "cost": "55 CZK (~2.20 €)"},
+      {"item": "Gin Tonic (Nachmittags-Drink)", "cost": "135 CZK (~5.40 €)"},
+      {"item": "Negroni", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Kleine Bar-Snacks", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Lokales Bier (Sobald es dunkel wird)", "cost": "60 CZK (~2.40 €)"}
     ]
   },
   {
@@ -454,11 +519,85 @@
     "lunch_deal": false,
     "secret_tip": false,
     "wm_spot": false,
-    "coordinates": [49.7428, 13.3719],
+    "coordinates": [49.74860, 13.37960],
     "prices": [
-      {"item": "Süße Belgische Waffel", "cost": "165 CZK (~6.60 €)"},
-      {"item": "Deftige Waffel (Bacon)", "cost": "195 CZK (~7.80 €)"},
-      {"item": "Batch Brew Filterkaffee", "cost": "75 CZK (~3.00 €)"}
+      {"item": "Süße Belgische Waffel (Ahornsirup)", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Waffel mit heißen Beeren & Sahne", "cost": "185 CZK (~7.40 €)"},
+      {"item": "Deftige Waffel (Bacon & Ei)", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Batch Brew Filterkaffee", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Flat White", "cost": "85 CZK (~3.40 €)"}
+    ]
+  },
+  {
+    "id": "gourmet_01",
+    "name": "ŠTIPEC",
+    "category": "deftig",
+    "type": "🌟 Premium Gourmet",
+    "description": "Modern interpretierte tschechische Küche auf Michelin Bib-Gourmand Niveau. Handverlesene, regionale Zutaten und trocken gereiftes Fleisch statt schwerer Knödelberge. Ein absolutes geschmackliches Highlight.",
+    "lunch_deal": false,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.74750, 13.37760],
+    "prices": [
+      {"item": "Modernes tschechisches Hauptgericht", "cost": "355 CZK (~14.20 €)"},
+      {"item": "Trockengereiftes Rindersteak (Dry Aged)", "cost": "595 CZK (~23.80 €)"},
+      {"item": "Gourmet-Vorspeisenteller (z.B. Tatar)", "cost": "245 CZK (~9.80 €)"},
+      {"item": "Trüffel-Pommes mit Parmesan", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Premium Craft Bier / Weinauswahl", "cost": "85 CZK (~3.40 €)"}
+    ]
+  },
+  {
+    "id": "bar_12",
+    "name": "Zlatá kráva Bandaska",
+    "category": "bar",
+    "type": "🐮 Craft-Beer-Zentrale",
+    "description": "Junger, lebendiger Hotspot der tschechischen Craft-Beer-Szene. Geniale Eigenkreationen vom Fass der 'Goldenen Kuh', Pub-Snacks und legendäre Burger bis tief in die Nacht.",
+    "lunch_deal": false,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.74650, 13.37550],
+    "prices": [
+      {"item": "Blue Smoke Burger inkl. Fries", "cost": "165 CZK (~6.60 €)"},
+      {"item": "Loaded Pulled Beef Fries", "cost": "185 CZK (~7.40 €)"},
+      {"item": "Zlatá Kráva Craft Beer (0.5l, wechselnd)", "cost": "75 CZK (~3.00 €)"},
+      {"item": "Bier-Verkostungs-Brett (4x 0.1l)", "cost": "145 CZK (~5.80 €)"},
+      {"item": "Knusprige Gewürzgurken frittiert", "cost": "95 CZK (~3.80 €)"}
+    ]
+  },
+  {
+    "id": "burger_02",
+    "name": "Pivstro - Beer Bistro",
+    "category": "burger",
+    "type": "🍔 Urban Beer Bistro",
+    "description": "Die perfekte Knödel-Pause. Urbanes, lockeres Bistro mit grandiosen Double Smash Bürgern, saftigem Pulled Pork und einer starken Auswahl wechselnder tschechischer Mikrobrauereien.",
+    "lunch_deal": false,
+    "secret_tip": true,
+    "wm_spot": false,
+    "coordinates": [49.74420, 13.37180],
+    "prices": [
+      {"item": "Double Smash Burger (Beef)", "cost": "259 CZK (~10.40 €)"},
+      {"item": "Bistro Pastrami Sandwich", "cost": "245 CZK (~9.80 €)"},
+      {"item": "Saftiges Pulled Pork Sandwich", "cost": "235 CZK (~9.40 €)"},
+      {"item": "Mikrobrauerei IPA vom Fass (0.4l)", "cost": "85 CZK (~3.40 €)"},
+      {"item": "Sweet Potato Fries mit BBQ-Dip", "cost": "95 CZK (~3.80 €)"}
+    ]
+  },
+  {
+    "id": "cz_17",
+    "name": "Plzeňka Plzeň",
+    "category": "deftig",
+    "type": "🍺 Heavy Classics Brauhaus",
+    "description": "Uriges, ehrliches Brauhaus inmitten der lebendigen Riegrova-Straße. Setzt kompromisslos auf die ganz schweren tschechischen Klassiker und extrem präzise gezapftes Pilsner Urquell.",
+    "lunch_deal": true,
+    "secret_tip": false,
+    "wm_spot": false,
+    "coordinates": [49.74820, 13.37720],
+    "prices": [
+      {"item": "Rindergulasch auf Pilsner-Urquell-Basis", "cost": "237 CZK (~9.50 €)"},
+      {"item": "Geräucherte Rippchen (BBQ Style)", "cost": "325 CZK (~13.00 €)"},
+      {"item": "Knusprige halbe Ente mit Knödeln", "cost": "365 CZK (~14.60 €)"},
+      {"item": "Gebackener Prager Schinken", "cost": "195 CZK (~7.80 €)"},
+      {"item": "Pilsner Urquell perfekt gezapft (0.5l)", "cost": "68 CZK (~2.72 €)"}
     ]
   }
 ]
